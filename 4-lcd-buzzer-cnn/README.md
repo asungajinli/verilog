@@ -8,6 +8,7 @@
 1. 입력 영상 최소 크기: one-layer 6x6(8bit), 입력 영상은 Verilog 언어를 이용하여 파일로 미리 저장되어 있어야 한다. 
 
 2. Kernals (filters): 3&times;3 4개 (다음)<br>
+
     <div style="display: flex; justify-content: space-between;">
         <div style="display:inline-block; float:left; margin-right:20px;">
             <table>
