@@ -1,11 +1,3 @@
-<head>
-    <style>
-        hr {
-            color: #eee;
-        }
-    </style>
-</haed>
-
 # Vivado 사용법
 
 ```
