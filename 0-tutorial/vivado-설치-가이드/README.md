@@ -12,41 +12,41 @@ Vivado 설치를 위해서는 용량이 최소 80 GB 정도가 요구됩니다.
 
 AMD 로그인 창이 뜨면, 회원가입 합니다.
 
-<img src="1.png" style="width:50%;"/>
+<img src="images/1.png" style="width:50%;"/>
 
 로그인 후 아래 페이지에서 설치파일을 다운로드합니다.
 
-<img src="2.png" style="width:40%;"/>
+<img src="images/2.png" style="width:40%;"/>
 
 본인의 AMD 계정을 입력한 후 `Next`를 클릭합니다.
 
-<img src="3.png" style="width:55%;"/>
+<img src="images/3.png" style="width:55%;"/>
 
 Vivado 선택
 
-<img src="4.png" style="width:55%;"/>
+<img src="images/4.png" style="width:55%;"/>
 
 Standard 버전 선택
 
-<img src="5.png" style="width:55%;"/>
+<img src="images/5.png" style="width:55%;"/>
 
 전체 선택 후 `Next`
 
-<img src="6.png" style="width:55%;"/>
+<img src="images/6.png" style="width:55%;"/>
 
 라이센스 동의 체크합니다.
 
-<img src="7.png" style="width:55%;"/>
+<img src="images/7.png" style="width:55%;"/>
 
 설치 경로와 용량을 확인합니다. 용량이 부족하면 `Next` 버튼이 눌려지지 않습니다.
 
-<img src="8.png" style="width:55%;"/>
+<img src="images/8.png" style="width:55%;"/>
 
 이어서 설치를 진행합니다.
 
-<img src="9.png" style="width:55%;"/>
-<img src="10.png" style="width:55%;"/>
+<img src="images/9.png" style="width:55%;"/>
+<img src="images/10.png" style="width:55%;"/>
 
 설치 완료 후 Vivado를 실행하면 아래와 같이 실행됩니다.
 
-<img src="11.png" style="width:55%;"/>
+<img src="images/11.png" style="width:55%;"/>
