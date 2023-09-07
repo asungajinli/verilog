@@ -8,7 +8,7 @@
 1. 입력 영상 최소 크기: one-layer 6x6(8bit), 입력 영상은 Verilog 언어를 이용하여 파일로 미리 저장되어 있어야 한다. 
 
 2. Kernals (filters): 3&times;3 4개 (다음)<br>
-    <table style="float:left; margin-right:20px;">
+    <table style="display:inline-block; float:left; margin-right:20px;">
     <tbody style="text-align:center;">
         <tr>
             <td>1</td>
@@ -31,7 +31,7 @@
     </tbody>
     </table>
 
-    <table style="float:left; margin-right:20px;">
+    <table style="display:inline-block; float:left; margin-right:20px;">
     <tbody style="text-align:center;">
         <tr>
             <td>1</td>
@@ -54,7 +54,7 @@
     </tbody>
     </table>
 
-    <table style="float:left; margin-right:20px;">
+    <table style="display:inline-block; float:left; margin-right:20px;">
     <tbody style="text-align:center;">
         <tr>
             <td>0</td>
@@ -78,7 +78,7 @@
     </table>
     
     <table>
-    <tbody style="text-align:center;">
+    <tbody style="display:inline-block; text-align:center;">
         <tr>
             <td>1/9</td>
             <td>1/9</td>
