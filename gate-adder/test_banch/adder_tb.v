@@ -32,9 +32,9 @@ module full_adder_tb();
         );
     initial begin
         a = 0; b = 0; cin = 0; #1000 $stop ;
-    end // 초기값 설정
+    end
     
-    always #200 a = ~a; // 입력 a를 주기 400 ns 클럭으로 정의
-    always #100 b = ~b; // 입력 b를 주기 200 ns 클럭으로 정의
-    always #50 cin = ~cin; // 입력 cin을 주기 100 ns 클럭으로 정의
+    always #200 a = ~a;
+    always #100 b = ~b;
+    always #50 cin = ~cin;
 endmodule
